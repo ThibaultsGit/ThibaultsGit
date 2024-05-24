@@ -10,7 +10,7 @@
 <h2 align="left">🤝 Prenons contact !</h2>
 <p>Si vous êtes à la recherche d’un alternant déterminé à apprendre et à réussir sa carrière professionnelle, n'hésitez pas à me contacter 👇​</p>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/thibault-foulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thibault-foulon" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/thibault-foulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thibault-foulon" height="30" width="40" /></a>
 </p>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92d8fcf0ca62ac0828e2c612f0437359f73e1e2fdb5686f58d114cb206b93c35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4578706572743f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d776869746526636f6c6f723d253233663136623331"><img src="https://camo.githubusercontent.com/92d8fcf0ca62ac0828e2c612f0437359f73e1e2fdb5686f58d114cb206b93c35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4578706572743f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d776869746526636f6c6f723d253233663136623331" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-Expert?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white&amp;color=%23f16b31" style="max-width: 100%; filter: invert(0);"></a>
